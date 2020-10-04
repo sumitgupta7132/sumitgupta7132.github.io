@@ -1,0 +1,35 @@
+validate {                                         
+    margin-left: 70px; 
+    font-weight: bold ; 
+    float: left; 
+    clear: left; 
+    width: 100px; 
+    text-align: left; 
+    margin-right: 10px; 
+    font-family:sans-serif,bold, Arial, Helvetica; 
+    font-size:14px; 
+} 
+   
+.container{  
+    box-sizing: border-box; 
+    width: 100%; 
+    border: 25px solid rgb(128, 199, 36); 
+    /* float: left;  */
+    align-content: center; 
+    align-items: center; 
+} 
+.container h3{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+    border: greenyellow;
+}
+.container img{
+    height: 150px;
+    width: 150px;
+}
+   
+form {                                         
+    margin: 50px auto; 
+    width: 600px; 
+}
